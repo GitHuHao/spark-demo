@@ -26,7 +26,7 @@
         <scala.version>2.11.8</scala.version>
         <config.version>1.3.0</config.version>
         <scalikejdbc.version>3.4.0</scalikejdbc.version>
-        <hadoop.version>2.7.2</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
         <hive.version>2.1.1-cdh6.3.3</hive.version>
         <hbase.version>1.3.1</hbase.version>
         <pool.version>2.4.2</pool.version>
