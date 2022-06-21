@@ -37,7 +37,7 @@
         <streaming.flume.version>2.4.5</streaming.flume.version>
         <cassandra.version>2.4.2</cassandra.version>
         <stream.kafka.version>1.6.3</stream.kafka.version>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <cassandra-driver.version>3.8.0</cassandra-driver.version>
         <elastic-spark.version>7.5.2</elastic-spark.version>
         <slf4j.version>1.7.30</slf4j.version>
